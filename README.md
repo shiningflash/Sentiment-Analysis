@@ -23,7 +23,6 @@ from keras.layers import LSTM
 
 ### Importing Dataset
 
-<<<<<<< HEAD
 Dataset 1 link: https://www.kaggle.com/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
 
 Dataset 2 link: https://github.com/vineetdhanawat/twitter-sentiment-analysis/blob/master/datasets/Sentiment%20Analysis%20Dataset%20100000.csv
