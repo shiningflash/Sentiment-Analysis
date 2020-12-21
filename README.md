@@ -646,41 +646,41 @@ for i in range(3):
 ```
 
     Epoch 1/6
-    47/47 [==============================] - 0s 6ms/step - loss: 0.6938 - acc: 0.5818 - val_loss: 0.6435 - val_acc: 0.6333
+    47/47 [==============================] - 1s 11ms/step - loss: 0.6925 - acc: 0.5907 - val_loss: 0.6186 - val_acc: 0.6573
     Epoch 2/6
-    47/47 [==============================] - 0s 4ms/step - loss: 0.5236 - acc: 0.7537 - val_loss: 0.5967 - val_acc: 0.6820
+    47/47 [==============================] - 0s 6ms/step - loss: 0.5245 - acc: 0.7500 - val_loss: 0.6090 - val_acc: 0.6673
     Epoch 3/6
-    47/47 [==============================] - 0s 4ms/step - loss: 0.4504 - acc: 0.8085 - val_loss: 0.5743 - val_acc: 0.7060
+    47/47 [==============================] - 0s 6ms/step - loss: 0.4504 - acc: 0.8112 - val_loss: 0.5855 - val_acc: 0.6880
     Epoch 4/6
-    47/47 [==============================] - 0s 5ms/step - loss: 0.3907 - acc: 0.8575 - val_loss: 0.5697 - val_acc: 0.6987
+    47/47 [==============================] - 0s 6ms/step - loss: 0.3977 - acc: 0.8417 - val_loss: 0.5799 - val_acc: 0.6960
     Epoch 5/6
-    47/47 [==============================] - 0s 5ms/step - loss: 0.3537 - acc: 0.8760 - val_loss: 0.5735 - val_acc: 0.6993
+    47/47 [==============================] - 0s 7ms/step - loss: 0.3576 - acc: 0.8663 - val_loss: 0.5831 - val_acc: 0.6933
     Epoch 6/6
-    47/47 [==============================] - 0s 5ms/step - loss: 0.3168 - acc: 0.9072 - val_loss: 0.5812 - val_acc: 0.6953
+    47/47 [==============================] - 0s 7ms/step - loss: 0.3253 - acc: 0.8908 - val_loss: 0.5698 - val_acc: 0.6953
     Epoch 1/6
-    47/47 [==============================] - 0s 6ms/step - loss: 0.6431 - acc: 0.6310 - val_loss: 0.6221 - val_acc: 0.6533
+    47/47 [==============================] - 0s 10ms/step - loss: 0.6423 - acc: 0.6285 - val_loss: 0.6191 - val_acc: 0.6573
     Epoch 2/6
-    47/47 [==============================] - 0s 4ms/step - loss: 0.5974 - acc: 0.6843 - val_loss: 0.6072 - val_acc: 0.6733
+    47/47 [==============================] - 0s 6ms/step - loss: 0.5984 - acc: 0.6852 - val_loss: 0.6043 - val_acc: 0.6747
     Epoch 3/6
-    47/47 [==============================] - 0s 5ms/step - loss: 0.5740 - acc: 0.7113 - val_loss: 0.5993 - val_acc: 0.6800
+    47/47 [==============================] - 0s 6ms/step - loss: 0.5762 - acc: 0.7098 - val_loss: 0.5959 - val_acc: 0.6807
     Epoch 4/6
-    47/47 [==============================] - 0s 4ms/step - loss: 0.5577 - acc: 0.7273 - val_loss: 0.5951 - val_acc: 0.6827
+    47/47 [==============================] - 0s 4ms/step - loss: 0.5591 - acc: 0.7230 - val_loss: 0.5921 - val_acc: 0.6833
     Epoch 5/6
-    47/47 [==============================] - 0s 4ms/step - loss: 0.5440 - acc: 0.7390 - val_loss: 0.5925 - val_acc: 0.6860
+    47/47 [==============================] - 0s 4ms/step - loss: 0.5438 - acc: 0.7345 - val_loss: 0.5952 - val_acc: 0.6767
     Epoch 6/6
-    47/47 [==============================] - 0s 5ms/step - loss: 0.5328 - acc: 0.7498 - val_loss: 0.5954 - val_acc: 0.6867
+    47/47 [==============================] - 0s 3ms/step - loss: 0.5334 - acc: 0.7473 - val_loss: 0.5890 - val_acc: 0.6900
     Epoch 1/6
-    47/47 [==============================] - 0s 5ms/step - loss: 0.4661 - acc: 0.7800 - val_loss: 0.6247 - val_acc: 0.6873
+    47/47 [==============================] - 0s 6ms/step - loss: 0.4419 - acc: 0.8020 - val_loss: 0.6203 - val_acc: 0.6907
     Epoch 2/6
-    47/47 [==============================] - 0s 5ms/step - loss: 0.4019 - acc: 0.8380 - val_loss: 0.6538 - val_acc: 0.6633
+    47/47 [==============================] - 0s 3ms/step - loss: 0.4067 - acc: 0.8325 - val_loss: 0.6233 - val_acc: 0.6807
     Epoch 3/6
-    47/47 [==============================] - 0s 5ms/step - loss: 0.3794 - acc: 0.8552 - val_loss: 0.6268 - val_acc: 0.6787
+    47/47 [==============================] - 0s 3ms/step - loss: 0.3788 - acc: 0.8538 - val_loss: 0.6266 - val_acc: 0.6807
     Epoch 4/6
-    47/47 [==============================] - 0s 5ms/step - loss: 0.3602 - acc: 0.8708 - val_loss: 0.6345 - val_acc: 0.6767
+    47/47 [==============================] - 0s 3ms/step - loss: 0.3609 - acc: 0.8668 - val_loss: 0.6341 - val_acc: 0.6767
     Epoch 5/6
-    47/47 [==============================] - 0s 5ms/step - loss: 0.3446 - acc: 0.8792 - val_loss: 0.6483 - val_acc: 0.6693
+    47/47 [==============================] - 0s 4ms/step - loss: 0.3476 - acc: 0.8740 - val_loss: 0.6476 - val_acc: 0.6653
     Epoch 6/6
-    47/47 [==============================] - 0s 5ms/step - loss: 0.3328 - acc: 0.8840 - val_loss: 0.6507 - val_acc: 0.6693
+    47/47 [==============================] - 0s 3ms/step - loss: 0.3341 - acc: 0.8825 - val_loss: 0.6486 - val_acc: 0.6740
 
 
 
@@ -698,15 +698,15 @@ for i in range(3):
     print('\ndataset {}: loss - {}, acc - {}'.format(i+1, loss[i], acc[i]))
 ```
 
-    235/235 [==============================] - 0s 2ms/step - loss: 0.3684 - acc: 0.8505
-    235/235 [==============================] - 0s 1ms/step - loss: 0.5719 - acc: 0.7091
-    235/235 [==============================] - 0s 1ms/step - loss: 0.3882 - acc: 0.8460
+    235/235 [==============================] - 0s 970us/step - loss: 0.3632 - acc: 0.8519
+    235/235 [==============================] - 0s 751us/step - loss: 0.5615 - acc: 0.7179
+    235/235 [==============================] - 0s 851us/step - loss: 0.3843 - acc: 0.8493
     
-    dataset 1: loss - 0.36839982867240906, acc - 0.8505333065986633
+    dataset 1: loss - 0.36317798495292664, acc - 0.8518666625022888
     
-    dataset 2: loss - 0.571892499923706, acc - 0.7090666890144348
+    dataset 2: loss - 0.5614890456199646, acc - 0.7178666591644287
     
-    dataset 3: loss - 0.3881690502166748, acc - 0.8460000157356262
+    dataset 3: loss - 0.384299099445343, acc - 0.8493333458900452
 
 
 
@@ -724,15 +724,15 @@ for i in range(3):
     print('\ndataset {}: loss - {}, acc - {}'.format(i+1, loss[i], acc[i]))
 ```
 
-    79/79 [==============================] - 0s 2ms/step - loss: 0.6785 - acc: 0.6876
-    79/79 [==============================] - 0s 1ms/step - loss: 0.6465 - acc: 0.6384
-    79/79 [==============================] - 0s 1ms/step - loss: 0.6688 - acc: 0.6648
+    79/79 [==============================] - 0s 926us/step - loss: 0.6849 - acc: 0.6900
+    79/79 [==============================] - 0s 886us/step - loss: 0.6355 - acc: 0.6488
+    79/79 [==============================] - 0s 814us/step - loss: 0.6645 - acc: 0.6684
     
-    dataset 1: loss - 0.6785476803779602, acc - 0.6876000165939331
+    dataset 1: loss - 0.6849325895309448, acc - 0.6899999976158142
     
-    dataset 2: loss - 0.6465015411376953, acc - 0.6384000182151794
+    dataset 2: loss - 0.6354695558547974, acc - 0.6488000154495239
     
-    dataset 3: loss - 0.6688228845596313, acc - 0.6647999882698059
+    dataset 3: loss - 0.6644997000694275, acc - 0.66839998960495
 
 
 
@@ -805,10 +805,11 @@ plt.show()
 
 ## Text Classification with CNN
 
+## Text Classification with LSTM
+
 
 ```python
 model = Sequential()
-
 embed_layer = Embedding(
     vocab_size, 100,
     weights = [embed_matrix],
@@ -816,29 +817,21 @@ embed_layer = Embedding(
     trainable = False
 )
 model.add(embed_layer)
+model.add(LSTM(128))
 ```
 
 
 ```python
 model.add(
-    Conv1D(128, 5,
-        activation = 'relu'
+    Dense(
+        1,
+        activation = 'sigmoid'
     )
 )
-model.add(GlobalMaxPooling1D())
-model.add(
-    Dense(1,
-          activation = 'sigmoid'
-    )
-)
-```
-
-
-```python
 model.compile(
     optimizer = 'adam',
     loss = 'binary_crossentropy',
-    metrics = ['accuracy']
+    metrics = ['acc']
 )
 ```
 
@@ -853,14 +846,12 @@ model.summary()
     =================================================================
     embedding_1 (Embedding)      (None, 100, 100)          5796100   
     _________________________________________________________________
-    conv1d (Conv1D)              (None, 96, 128)           64128     
-    _________________________________________________________________
-    global_max_pooling1d (Global (None, 128)               0         
+    lstm (LSTM)                  (None, 128)               117248    
     _________________________________________________________________
     dense_1 (Dense)              (None, 1)                 129       
     =================================================================
-    Total params: 5,860,357
-    Trainable params: 64,257
+    Total params: 5,913,477
+    Trainable params: 117,377
     Non-trainable params: 5,796,100
     _________________________________________________________________
 
@@ -880,41 +871,41 @@ for i in range(3):
 ```
 
     Epoch 1/6
-    47/47 [==============================] - 2s 50ms/step - loss: 0.6295 - accuracy: 0.6555 - val_loss: 0.5551 - val_accuracy: 0.7247
+    47/47 [==============================] - 15s 316ms/step - loss: 0.6483 - acc: 0.6265 - val_loss: 0.6020 - val_acc: 0.6927
     Epoch 2/6
-    47/47 [==============================] - 2s 44ms/step - loss: 0.4819 - accuracy: 0.8013 - val_loss: 0.4765 - val_accuracy: 0.7867
+    47/47 [==============================] - 12s 264ms/step - loss: 0.5519 - acc: 0.7228 - val_loss: 0.5181 - val_acc: 0.7513
     Epoch 3/6
-    47/47 [==============================] - 2s 38ms/step - loss: 0.3992 - accuracy: 0.8467 - val_loss: 0.4518 - val_accuracy: 0.7900
+    47/47 [==============================] - 12s 265ms/step - loss: 0.5213 - acc: 0.7433 - val_loss: 0.4885 - val_acc: 0.7720
     Epoch 4/6
-    47/47 [==============================] - 2s 39ms/step - loss: 0.3452 - accuracy: 0.8705 - val_loss: 0.4122 - val_accuracy: 0.8167
+    47/47 [==============================] - 16s 343ms/step - loss: 0.4878 - acc: 0.7667 - val_loss: 0.4597 - val_acc: 0.7820
     Epoch 5/6
-    47/47 [==============================] - 2s 44ms/step - loss: 0.2936 - accuracy: 0.9038 - val_loss: 0.4108 - val_accuracy: 0.8100
+    47/47 [==============================] - 15s 326ms/step - loss: 0.4814 - acc: 0.7710 - val_loss: 0.4490 - val_acc: 0.7940
     Epoch 6/6
-    47/47 [==============================] - 2s 43ms/step - loss: 0.2557 - accuracy: 0.9235 - val_loss: 0.3912 - val_accuracy: 0.8160
+    47/47 [==============================] - 15s 327ms/step - loss: 0.4499 - acc: 0.7865 - val_loss: 0.4345 - val_acc: 0.7993
     Epoch 1/6
-    47/47 [==============================] - 2s 44ms/step - loss: 0.6197 - accuracy: 0.6850 - val_loss: 0.5731 - val_accuracy: 0.7147
+    47/47 [==============================] - 15s 326ms/step - loss: 0.6827 - acc: 0.5827 - val_loss: 0.6824 - val_acc: 0.5733
     Epoch 2/6
-    47/47 [==============================] - 2s 36ms/step - loss: 0.4856 - accuracy: 0.7777 - val_loss: 0.5514 - val_accuracy: 0.7260
+    47/47 [==============================] - 22s 458ms/step - loss: 0.6818 - acc: 0.5785 - val_loss: 0.6823 - val_acc: 0.5733
     Epoch 3/6
-    47/47 [==============================] - 2s 36ms/step - loss: 0.4329 - accuracy: 0.8090 - val_loss: 0.5479 - val_accuracy: 0.7413
+    47/47 [==============================] - 18s 381ms/step - loss: 0.6809 - acc: 0.5785 - val_loss: 0.6824 - val_acc: 0.5733
     Epoch 4/6
-    47/47 [==============================] - 2s 38ms/step - loss: 0.3850 - accuracy: 0.8517 - val_loss: 0.5412 - val_accuracy: 0.7373
+    47/47 [==============================] - 15s 318ms/step - loss: 0.6809 - acc: 0.5785 - val_loss: 0.6823 - val_acc: 0.5733
     Epoch 5/6
-    47/47 [==============================] - 3s 62ms/step - loss: 0.3442 - accuracy: 0.8783 - val_loss: 0.5387 - val_accuracy: 0.7413
+    47/47 [==============================] - 16s 333ms/step - loss: 0.6809 - acc: 0.5785 - val_loss: 0.6819 - val_acc: 0.5733
     Epoch 6/6
-    47/47 [==============================] - 3s 67ms/step - loss: 0.3068 - accuracy: 0.9037 - val_loss: 0.5392 - val_accuracy: 0.7393
+    47/47 [==============================] - 11s 227ms/step - loss: 0.6574 - acc: 0.6202 - val_loss: 0.6242 - val_acc: 0.6807
     Epoch 1/6
-    47/47 [==============================] - 3s 71ms/step - loss: 0.2960 - accuracy: 0.8990 - val_loss: 0.5663 - val_accuracy: 0.7260
+    47/47 [==============================] - 12s 265ms/step - loss: 0.5510 - acc: 0.7248 - val_loss: 0.5969 - val_acc: 0.6820
     Epoch 2/6
-    47/47 [==============================] - 3s 73ms/step - loss: 0.2426 - accuracy: 0.9353 - val_loss: 0.5114 - val_accuracy: 0.7480
+    47/47 [==============================] - 7s 157ms/step - loss: 0.5251 - acc: 0.7422 - val_loss: 0.5594 - val_acc: 0.7140
     Epoch 3/6
-    47/47 [==============================] - 3s 70ms/step - loss: 0.1975 - accuracy: 0.9625 - val_loss: 0.5164 - val_accuracy: 0.7547
+    47/47 [==============================] - 9s 181ms/step - loss: 0.5286 - acc: 0.7397 - val_loss: 0.5892 - val_acc: 0.6840
     Epoch 4/6
-    47/47 [==============================] - 3s 72ms/step - loss: 0.1726 - accuracy: 0.9743 - val_loss: 0.5240 - val_accuracy: 0.7573
+    47/47 [==============================] - 8s 162ms/step - loss: 0.5039 - acc: 0.7555 - val_loss: 0.5427 - val_acc: 0.7367
     Epoch 5/6
-    47/47 [==============================] - 3s 66ms/step - loss: 0.1441 - accuracy: 0.9847 - val_loss: 0.5353 - val_accuracy: 0.7507
+    47/47 [==============================] - 7s 154ms/step - loss: 0.4793 - acc: 0.7735 - val_loss: 0.5487 - val_acc: 0.7213
     Epoch 6/6
-    47/47 [==============================] - 2s 50ms/step - loss: 0.1287 - accuracy: 0.9873 - val_loss: 0.5307 - val_accuracy: 0.7467
+    47/47 [==============================] - 8s 179ms/step - loss: 0.4757 - acc: 0.7830 - val_loss: 0.5506 - val_acc: 0.7447
 
 
 
@@ -932,15 +923,15 @@ for i in range(3):
     print('\ndataset {}: loss - {}, acc - {}'.format(i+1, loss[i], acc[i]))
 ```
 
-    235/235 [==============================] - 1s 6ms/step - loss: 0.2263 - accuracy: 0.9153
-    235/235 [==============================] - 2s 7ms/step - loss: 0.3170 - accuracy: 0.8788
-    235/235 [==============================] - 1s 4ms/step - loss: 0.1920 - accuracy: 0.9449
+    235/235 [==============================] - 6s 27ms/step - loss: 0.4178 - acc: 0.8145
+    235/235 [==============================] - 5s 21ms/step - loss: 0.5735 - acc: 0.7364
+    235/235 [==============================] - 5s 20ms/step - loss: 0.4731 - acc: 0.7789
     
-    dataset 1: loss - 0.22627300024032593, acc - 0.9153333306312561
+    dataset 1: loss - 0.4177885949611664, acc - 0.8145333528518677
     
-    dataset 2: loss - 0.3170439600944519, acc - 0.8787999749183655
+    dataset 2: loss - 0.5735248327255249, acc - 0.7364000082015991
     
-    dataset 3: loss - 0.19201935827732086, acc - 0.9449333548545837
+    dataset 3: loss - 0.47305428981781006, acc - 0.7789333462715149
 
 
 
@@ -958,15 +949,15 @@ for i in range(3):
     print('\ndataset {}: loss - {}, acc - {}'.format(i+1, loss[i], acc[i]))
 ```
 
-    79/79 [==============================] - 0s 4ms/step - loss: 0.4486 - accuracy: 0.7912
-    79/79 [==============================] - 0s 4ms/step - loss: 0.6153 - accuracy: 0.7036
-    79/79 [==============================] - 0s 4ms/step - loss: 0.5275 - accuracy: 0.7492
+    79/79 [==============================] - 2s 22ms/step - loss: 0.4927 - acc: 0.7760
+    79/79 [==============================] - 2s 31ms/step - loss: 0.5941 - acc: 0.7204
+    79/79 [==============================] - 2s 20ms/step - loss: 0.5383 - acc: 0.7452
     
-    dataset 1: loss - 0.44862401485443115, acc - 0.7911999821662903
+    dataset 1: loss - 0.49267593026161194, acc - 0.7760000228881836
     
-    dataset 2: loss - 0.6153467297554016, acc - 0.7035999894142151
+    dataset 2: loss - 0.5940758585929871, acc - 0.7203999757766724
     
-    dataset 3: loss - 0.5274851322174072, acc - 0.7491999864578247
+    dataset 3: loss - 0.5382635593414307, acc - 0.745199978351593
 
 
 
@@ -978,8 +969,8 @@ for i in range(3):
     plt.xlabel('epoch')
     plt.ylabel('accuracy')
     plt.legend(['train', 'test'], loc = 'upper left')
-    plt.plot(hist[i].history['accuracy'])
-    plt.plot(hist[i].history['val_accuracy'])
+    plt.plot(hist[i].history['acc'])
+    plt.plot(hist[i].history['val_acc'])
     plt.tight_layout(pad=1.0)
 
 plt.show()
@@ -1037,27 +1028,55 @@ plt.show()
     
 
 
-## Text Classification with LSTM
+## Text Classification with Bi-Directional LSTM
 
 
 ```python
+from keras.layers import TimeDistributed
+from keras.layers import Bidirectional
+
 model = Sequential()
 embed_layer = Embedding(
-    vocab_size, 100,
+    vocab_size,
+    100,
     weights = [embed_matrix],
     input_length = maxlen,
     trainable = False
 )
 model.add(embed_layer)
-model.add(LSTM(128))
+model.add(
+    Bidirectional(
+        LSTM(
+            100,
+            return_sequences = True,
+            dropout = 0.50
+        ),
+        merge_mode = 'concat'
+    )
+)
+model.add(
+    TimeDistributed(
+        Dense(
+            100,
+            activation = 'sigmoid'
+        )
+    )
+)
+model.add(Flatten())
 ```
 
 
 ```python
 model.add(
     Dense(
-        1,
+        100,
         activation = 'sigmoid'
+    )
+)
+model.add(
+    Dense(
+        3,
+        activation = 'softmax'
     )
 )
 model.compile(
@@ -1078,12 +1097,18 @@ model.summary()
     =================================================================
     embedding_2 (Embedding)      (None, 100, 100)          5796100   
     _________________________________________________________________
-    lstm (LSTM)                  (None, 128)               117248    
+    bidirectional (Bidirectional (None, 100, 200)          160800    
     _________________________________________________________________
-    dense_2 (Dense)              (None, 1)                 129       
+    time_distributed (TimeDistri (None, 100, 100)          20100     
+    _________________________________________________________________
+    flatten_1 (Flatten)          (None, 10000)             0         
+    _________________________________________________________________
+    dense_3 (Dense)              (None, 100)               1000100   
+    _________________________________________________________________
+    dense_4 (Dense)              (None, 3)                 303       
     =================================================================
-    Total params: 5,913,477
-    Trainable params: 117,377
+    Total params: 6,977,403
+    Trainable params: 1,181,303
     Non-trainable params: 5,796,100
     _________________________________________________________________
 
@@ -1103,41 +1128,41 @@ for i in range(3):
 ```
 
     Epoch 1/6
-    47/47 [==============================] - 8s 170ms/step - loss: 0.6413 - acc: 0.6295 - val_loss: 0.5895 - val_acc: 0.6900
+    47/47 [==============================] - 11s 236ms/step - loss: 1.2885 - acc: 0.4260 - val_loss: 1.0186 - val_acc: 0.4960
     Epoch 2/6
-    47/47 [==============================] - 9s 202ms/step - loss: 0.5457 - acc: 0.7237 - val_loss: 0.4959 - val_acc: 0.7700
+    47/47 [==============================] - 11s 230ms/step - loss: 0.8285 - acc: 0.5027 - val_loss: 0.7553 - val_acc: 0.5040
     Epoch 3/6
-    47/47 [==============================] - 7s 148ms/step - loss: 0.5098 - acc: 0.7575 - val_loss: 0.4872 - val_acc: 0.7733
+    47/47 [==============================] - 13s 271ms/step - loss: 0.7515 - acc: 0.3962 - val_loss: 0.7548 - val_acc: 0.4960
     Epoch 4/6
-    47/47 [==============================] - 7s 142ms/step - loss: 0.4941 - acc: 0.7657 - val_loss: 0.4887 - val_acc: 0.7640
+    47/47 [==============================] - 10s 223ms/step - loss: 0.7511 - acc: 0.4935 - val_loss: 0.7548 - val_acc: 0.5040
     Epoch 5/6
-    47/47 [==============================] - 7s 145ms/step - loss: 0.4781 - acc: 0.7722 - val_loss: 0.4655 - val_acc: 0.7867
+    47/47 [==============================] - 14s 300ms/step - loss: 0.7511 - acc: 0.4188 - val_loss: 0.7548 - val_acc: 0.5040
     Epoch 6/6
-    47/47 [==============================] - 8s 164ms/step - loss: 0.4523 - acc: 0.7887 - val_loss: 0.4470 - val_acc: 0.7880
+    47/47 [==============================] - 15s 310ms/step - loss: 0.7511 - acc: 0.4118 - val_loss: 0.7548 - val_acc: 0.4960
     Epoch 1/6
-    47/47 [==============================] - 9s 186ms/step - loss: 0.6887 - acc: 0.5797 - val_loss: 0.6824 - val_acc: 0.5733
+    47/47 [==============================] - 13s 269ms/step - loss: 0.6976 - acc: 0.4300 - val_loss: 0.7012 - val_acc: 0.5373
     Epoch 2/6
-    47/47 [==============================] - 8s 174ms/step - loss: 0.6784 - acc: 0.5785 - val_loss: 0.6826 - val_acc: 0.5733
+    47/47 [==============================] - 10s 218ms/step - loss: 0.6976 - acc: 0.5028 - val_loss: 0.7012 - val_acc: 0.3733
     Epoch 3/6
-    47/47 [==============================] - 9s 187ms/step - loss: 0.6828 - acc: 0.5785 - val_loss: 0.6813 - val_acc: 0.5733
+    47/47 [==============================] - 11s 237ms/step - loss: 0.6976 - acc: 0.4033 - val_loss: 0.7012 - val_acc: 0.3067
     Epoch 4/6
-    47/47 [==============================] - 7s 159ms/step - loss: 0.6590 - acc: 0.5710 - val_loss: 0.6888 - val_acc: 0.4480
+    47/47 [==============================] - 12s 245ms/step - loss: 0.6976 - acc: 0.3672 - val_loss: 0.7012 - val_acc: 0.3067
     Epoch 5/6
-    47/47 [==============================] - 8s 163ms/step - loss: 0.6858 - acc: 0.5558 - val_loss: 0.6824 - val_acc: 0.5733
+    47/47 [==============================] - 14s 288ms/step - loss: 0.6976 - acc: 0.4152 - val_loss: 0.7012 - val_acc: 0.3507
     Epoch 6/6
-    47/47 [==============================] - 9s 184ms/step - loss: 0.6810 - acc: 0.5785 - val_loss: 0.6824 - val_acc: 0.5733
+    47/47 [==============================] - 15s 325ms/step - loss: 0.6976 - acc: 0.3313 - val_loss: 0.7012 - val_acc: 0.3060
     Epoch 1/6
-    47/47 [==============================] - 9s 193ms/step - loss: 0.6395 - acc: 0.5720 - val_loss: 0.6075 - val_acc: 0.5940
+    47/47 [==============================] - 16s 337ms/step - loss: 0.7667 - acc: 0.2237 - val_loss: 0.7788 - val_acc: 0.2320
     Epoch 2/6
-    47/47 [==============================] - 7s 148ms/step - loss: 0.5779 - acc: 0.6662 - val_loss: 0.5838 - val_acc: 0.6667
+    47/47 [==============================] - 16s 335ms/step - loss: 0.7667 - acc: 0.2307 - val_loss: 0.7788 - val_acc: 0.2333
     Epoch 3/6
-    47/47 [==============================] - 7s 146ms/step - loss: 0.5549 - acc: 0.6928 - val_loss: 0.5542 - val_acc: 0.7087
+    47/47 [==============================] - 23s 497ms/step - loss: 0.7667 - acc: 0.2303 - val_loss: 0.7788 - val_acc: 0.2333
     Epoch 4/6
-    47/47 [==============================] - 9s 185ms/step - loss: 0.5197 - acc: 0.7353 - val_loss: 0.5607 - val_acc: 0.6940
+    47/47 [==============================] - 17s 360ms/step - loss: 0.7667 - acc: 0.2307 - val_loss: 0.7788 - val_acc: 0.2333
     Epoch 5/6
-    47/47 [==============================] - 7s 152ms/step - loss: 0.5190 - acc: 0.7325 - val_loss: 0.5331 - val_acc: 0.7267
+    47/47 [==============================] - 15s 317ms/step - loss: 0.7667 - acc: 0.2310 - val_loss: 0.7788 - val_acc: 0.2327
     Epoch 6/6
-    47/47 [==============================] - 7s 141ms/step - loss: 0.4809 - acc: 0.7660 - val_loss: 0.5502 - val_acc: 0.7373
+    47/47 [==============================] - 15s 309ms/step - loss: 0.7667 - acc: 0.2307 - val_loss: 0.7788 - val_acc: 0.2333
 
 
 
@@ -1155,15 +1180,15 @@ for i in range(3):
     print('\ndataset {}: loss - {}, acc - {}'.format(i+1, loss[i], acc[i]))
 ```
 
-    235/235 [==============================] - 5s 21ms/step - loss: 0.4069 - acc: 0.8216
-    235/235 [==============================] - 6s 26ms/step - loss: 0.6664 - acc: 0.7040
-    235/235 [==============================] - 5s 21ms/step - loss: 0.4869 - acc: 0.7749
+    235/235 [==============================] - 9s 40ms/step - loss: 0.7519 - acc: 0.0108
+    235/235 [==============================] - 6s 24ms/step - loss: 0.6983 - acc: 0.5775
+    235/235 [==============================] - 5s 23ms/step - loss: 0.7691 - acc: 0.2293
     
-    dataset 1: loss - 0.4069167971611023, acc - 0.8216000199317932
+    dataset 1: loss - 0.7518537640571594, acc - 0.01080000028014183
     
-    dataset 2: loss - 0.6664188504219055, acc - 0.7039999961853027
+    dataset 2: loss - 0.6983428597450256, acc - 0.5774666666984558
     
-    dataset 3: loss - 0.48685401678085327, acc - 0.7749333381652832
+    dataset 3: loss - 0.7691359519958496, acc - 0.2293333262205124
 
 
 
@@ -1181,15 +1206,15 @@ for i in range(3):
     print('\ndataset {}: loss - {}, acc - {}'.format(i+1, loss[i], acc[i]))
 ```
 
-    79/79 [==============================] - 2s 20ms/step - loss: 0.4722 - acc: 0.7860
-    79/79 [==============================] - 2s 22ms/step - loss: 0.6870 - acc: 0.6900
-    79/79 [==============================] - 2s 19ms/step - loss: 0.5498 - acc: 0.7452
+    79/79 [==============================] - 2s 21ms/step - loss: 0.7604 - acc: 0.0092
+    79/79 [==============================] - 2s 27ms/step - loss: 0.6880 - acc: 0.5920
+    79/79 [==============================] - 2s 25ms/step - loss: 0.7592 - acc: 0.2380
     
-    dataset 1: loss - 0.4722077250480652, acc - 0.7860000133514404
+    dataset 1: loss - 0.760356068611145, acc - 0.009200000204145908
     
-    dataset 2: loss - 0.686953067779541, acc - 0.6899999976158142
+    dataset 2: loss - 0.6879917979240417, acc - 0.5920000076293945
     
-    dataset 3: loss - 0.5498132109642029, acc - 0.745199978351593
+    dataset 3: loss - 0.7592472434043884, acc - 0.23800000548362732
 
 
 
@@ -1260,263 +1285,6 @@ plt.show()
     
 
 
-## Text Classification with Bi-Directional LSTM
-
-
-```python
-from keras.layers import TimeDistributed
-from keras.layers import Bidirectional
-
-model = Sequential()
-embed_layer = Embedding(
-    vocab_size,
-    100,
-    weights = [embed_matrix],
-    input_length = maxlen,
-    trainable = False
-)
-model.add(embed_layer)
-model.add(
-    Bidirectional(
-        LSTM(
-            100,
-            return_sequences = True,
-            dropout = 0.50
-        ),
-        merge_mode = 'concat'
-    )
-)
-model.add(
-    TimeDistributed(
-        Dense(
-            100,
-            activation = 'sigmoid'
-        )
-    )
-)
-model.add(Flatten())
-```
-
-
-```python
-model.add(
-    Dense(
-        100,
-        activation = 'sigmoid'
-    )
-)
-model.add(
-    Dense(
-        3,
-        activation = 'softmax'
-    )
-)
-model.compile(
-    optimizer = 'adam',
-    loss = 'binary_crossentropy',
-    metrics = ['acc']
-)
-```
-
-
-```python
-model.summary()
-```
-
-    Model: "sequential_3"
-    _________________________________________________________________
-    Layer (type)                 Output Shape              Param #   
-    =================================================================
-    embedding_3 (Embedding)      (None, 100, 100)          5796100   
-    _________________________________________________________________
-    bidirectional (Bidirectional (None, 100, 200)          160800    
-    _________________________________________________________________
-    time_distributed (TimeDistri (None, 100, 100)          20100     
-    _________________________________________________________________
-    flatten_1 (Flatten)          (None, 10000)             0         
-    _________________________________________________________________
-    dense_4 (Dense)              (None, 100)               1000100   
-    _________________________________________________________________
-    dense_5 (Dense)              (None, 3)                 303       
-    =================================================================
-    Total params: 6,977,403
-    Trainable params: 1,181,303
-    Non-trainable params: 5,796,100
-    _________________________________________________________________
-
-
-
-```python
-hist = [[]] * 3
-
-for i in range(3):
-    hist[i] = model.fit(
-        X_train[i], y_train[i],
-        batch_size = 128,
-        epochs = 6,
-        verbose = 1,
-        validation_split = 0.2
-    )
-```
-
-    Epoch 1/6
-    47/47 [==============================] - 11s 233ms/step - loss: 1.1249 - acc: 0.4888 - val_loss: 0.8540 - val_acc: 0.4960
-    Epoch 2/6
-    47/47 [==============================] - 12s 247ms/step - loss: 0.7678 - acc: 0.2550 - val_loss: 0.7554 - val_acc: 0.0000e+00
-    Epoch 3/6
-    47/47 [==============================] - 12s 264ms/step - loss: 0.7512 - acc: 0.3668 - val_loss: 0.7548 - val_acc: 0.0000e+00
-    Epoch 4/6
-    47/47 [==============================] - 12s 246ms/step - loss: 0.7511 - acc: 0.2037 - val_loss: 0.7548 - val_acc: 0.4960
-    Epoch 5/6
-    47/47 [==============================] - 12s 260ms/step - loss: 0.7511 - acc: 0.2125 - val_loss: 0.7548 - val_acc: 0.4947
-    Epoch 6/6
-    47/47 [==============================] - 10s 222ms/step - loss: 0.7511 - acc: 0.2225 - val_loss: 0.7548 - val_acc: 0.0967
-    Epoch 1/6
-    47/47 [==============================] - 10s 220ms/step - loss: 0.6976 - acc: 0.2877 - val_loss: 0.7012 - val_acc: 0.5647
-    Epoch 2/6
-    47/47 [==============================] - 10s 217ms/step - loss: 0.6976 - acc: 0.3460 - val_loss: 0.7012 - val_acc: 0.1627
-    Epoch 3/6
-    47/47 [==============================] - 10s 209ms/step - loss: 0.6976 - acc: 0.2508 - val_loss: 0.7012 - val_acc: 0.2407
-    Epoch 4/6
-    47/47 [==============================] - 11s 236ms/step - loss: 0.6976 - acc: 0.2842 - val_loss: 0.7012 - val_acc: 0.2387
-    Epoch 5/6
-    47/47 [==============================] - 11s 242ms/step - loss: 0.6976 - acc: 0.2833 - val_loss: 0.7012 - val_acc: 0.2427
-    Epoch 6/6
-    47/47 [==============================] - 11s 226ms/step - loss: 0.6976 - acc: 0.2823 - val_loss: 0.7012 - val_acc: 0.2427
-    Epoch 1/6
-    47/47 [==============================] - 11s 237ms/step - loss: 0.7667 - acc: 0.2322 - val_loss: 0.7788 - val_acc: 0.2427
-    Epoch 2/6
-    47/47 [==============================] - 11s 241ms/step - loss: 0.7667 - acc: 0.2377 - val_loss: 0.7788 - val_acc: 0.2427
-    Epoch 3/6
-    47/47 [==============================] - 12s 260ms/step - loss: 0.7667 - acc: 0.2372 - val_loss: 0.7788 - val_acc: 0.2427
-    Epoch 4/6
-    47/47 [==============================] - 13s 267ms/step - loss: 0.7667 - acc: 0.2387 - val_loss: 0.7788 - val_acc: 0.2427
-    Epoch 5/6
-    47/47 [==============================] - 13s 280ms/step - loss: 0.7667 - acc: 0.2373 - val_loss: 0.7788 - val_acc: 0.2427
-    Epoch 6/6
-    47/47 [==============================] - 11s 234ms/step - loss: 0.7667 - acc: 0.2383 - val_loss: 0.7788 - val_acc: 0.2433
-
-
-
-```python
-loss = [[]] * 3
-acc = [[]] * 3
-
-for i in range(3):
-    loss[i], acc[i] = model.evaluate(
-        X_train[i], y_train[i],
-        verbose = 1
-    )
-
-for i in range(3):
-    print('\ndataset {}: loss - {}, acc - {}'.format(i+1, loss[i], acc[i]))
-```
-
-    235/235 [==============================] - 7s 28ms/step - loss: 0.7519 - acc: 0.0272
-    235/235 [==============================] - 5s 22ms/step - loss: 0.6983 - acc: 0.5775
-    235/235 [==============================] - 6s 23ms/step - loss: 0.7691 - acc: 0.2371
-    
-    dataset 1: loss - 0.7518537640571594, acc - 0.0272000003606081
-    
-    dataset 2: loss - 0.6983428597450256, acc - 0.5774666666984558
-    
-    dataset 3: loss - 0.7691359519958496, acc - 0.23706667125225067
-
-
-
-```python
-loss = [[]] * 3
-acc = [[]] * 3
-
-for i in range(3):
-    loss[i], acc[i] = model.evaluate(
-        X_test[i], y_test[i],
-        verbose = 1
-    )
-    
-for i in range(3):
-    print('\ndataset {}: loss - {}, acc - {}'.format(i+1, loss[i], acc[i]))
-```
-
-    79/79 [==============================] - 2s 24ms/step - loss: 0.7604 - acc: 0.0224
-    79/79 [==============================] - 2s 26ms/step - loss: 0.6880 - acc: 0.5920
-    79/79 [==============================] - 2s 21ms/step - loss: 0.7592 - acc: 0.2428
-    
-    dataset 1: loss - 0.7603561282157898, acc - 0.02239999920129776
-    
-    dataset 2: loss - 0.6879917979240417, acc - 0.5920000076293945
-    
-    dataset 3: loss - 0.7592472434043884, acc - 0.24279999732971191
-
-
-
-```python
-for i in range(3):
-    plt.figure(figsize=(12, 8))
-    plt.subplot(3, 3, i+1)
-    plt.title('model accuracy')
-    plt.xlabel('epoch')
-    plt.ylabel('accuracy')
-    plt.legend(['train', 'test'], loc = 'upper left')
-    plt.plot(hist[i].history['acc'])
-    plt.plot(hist[i].history['val_acc'])
-    plt.tight_layout(pad=1.0)
-
-plt.show()
-```
-
-
-    
-![png](output/output_86_0.png)
-    
-
-
-
-    
-![png](output/output_86_1.png)
-    
-
-
-
-    
-![png](output/output_86_2.png)
-    
-
-
-
-```python
-for i in range(3):
-    plt.figure(figsize=(12, 8))
-    plt.subplot(3, 3, i+1)
-    plt.title('model loss')
-    plt.xlabel('epoch')
-    plt.ylabel('loss')
-    plt.legend(['train', 'test'], loc = 'upper right')
-    plt.plot(hist[i].history['loss'])
-    plt.plot(hist[i].history['val_loss'])
-    plt.tight_layout(pad=1.0)
-
-plt.show()
-```
-
-
-    
-![png](output/output_87_0.png)
-    
-
-
-
-    
-![png](output/output_87_1.png)
-    
-
-
-
-    
-![png](output/output_87_2.png)
-    
-
-
 ## Text Classification with GRU
 
 
@@ -1559,15 +1327,15 @@ model.compile(
 model.summary()
 ```
 
-    Model: "sequential_4"
+    Model: "sequential_3"
     _________________________________________________________________
     Layer (type)                 Output Shape              Param #   
     =================================================================
-    embedding_4 (Embedding)      (None, 100, 100)          5796100   
+    embedding_3 (Embedding)      (None, 100, 100)          5796100   
     _________________________________________________________________
     gru (GRU)                    (None, 256)               274944    
     _________________________________________________________________
-    dense_6 (Dense)              (None, 1)                 257       
+    dense_5 (Dense)              (None, 1)                 257       
     =================================================================
     Total params: 6,071,301
     Trainable params: 275,201
@@ -1590,41 +1358,41 @@ for i in range(3):
 ```
 
     Epoch 1/6
-    47/47 [==============================] - 13s 279ms/step - loss: 0.6666 - acc: 0.5842 - val_loss: 0.6300 - val_acc: 0.6440
+    47/47 [==============================] - 14s 306ms/step - loss: 0.6584 - acc: 0.6063 - val_loss: 0.6503 - val_acc: 0.6140
     Epoch 2/6
-    47/47 [==============================] - 13s 274ms/step - loss: 0.5851 - acc: 0.6880 - val_loss: 0.5342 - val_acc: 0.7393
+    47/47 [==============================] - 20s 433ms/step - loss: 0.5568 - acc: 0.7110 - val_loss: 0.5429 - val_acc: 0.7407
     Epoch 3/6
-    47/47 [==============================] - 13s 273ms/step - loss: 0.4775 - acc: 0.7730 - val_loss: 0.4374 - val_acc: 0.7967
+    47/47 [==============================] - 16s 347ms/step - loss: 0.4663 - acc: 0.7867 - val_loss: 0.4488 - val_acc: 0.8093
     Epoch 4/6
-    47/47 [==============================] - 15s 311ms/step - loss: 0.4212 - acc: 0.8058 - val_loss: 0.4018 - val_acc: 0.8180
+    47/47 [==============================] - 13s 281ms/step - loss: 0.4511 - acc: 0.7907 - val_loss: 0.4084 - val_acc: 0.8173
     Epoch 5/6
-    47/47 [==============================] - 13s 273ms/step - loss: 0.3884 - acc: 0.8230 - val_loss: 0.4097 - val_acc: 0.8173
+    47/47 [==============================] - 13s 272ms/step - loss: 0.3941 - acc: 0.8205 - val_loss: 0.4185 - val_acc: 0.8033
     Epoch 6/6
-    47/47 [==============================] - 14s 289ms/step - loss: 0.3625 - acc: 0.8392 - val_loss: 0.4216 - val_acc: 0.8060
+    47/47 [==============================] - 13s 277ms/step - loss: 0.3790 - acc: 0.8283 - val_loss: 0.3911 - val_acc: 0.8287
     Epoch 1/6
-    47/47 [==============================] - 14s 307ms/step - loss: 0.6866 - acc: 0.5773 - val_loss: 0.6830 - val_acc: 0.5733
+    47/47 [==============================] - 13s 272ms/step - loss: 0.6886 - acc: 0.5778 - val_loss: 0.6824 - val_acc: 0.5733
     Epoch 2/6
-    47/47 [==============================] - 15s 318ms/step - loss: 0.6812 - acc: 0.5785 - val_loss: 0.6825 - val_acc: 0.5733
+    47/47 [==============================] - 13s 270ms/step - loss: 0.6811 - acc: 0.5785 - val_loss: 0.6826 - val_acc: 0.5733
     Epoch 3/6
-    47/47 [==============================] - 15s 312ms/step - loss: 0.6812 - acc: 0.5785 - val_loss: 0.6824 - val_acc: 0.5733
+    47/47 [==============================] - 13s 287ms/step - loss: 0.6809 - acc: 0.5785 - val_loss: 0.6825 - val_acc: 0.5733
     Epoch 4/6
-    47/47 [==============================] - 14s 307ms/step - loss: 0.6809 - acc: 0.5785 - val_loss: 0.6824 - val_acc: 0.5733
+    47/47 [==============================] - 13s 270ms/step - loss: 0.6818 - acc: 0.5785 - val_loss: 0.6824 - val_acc: 0.5733
     Epoch 5/6
-    47/47 [==============================] - 15s 328ms/step - loss: 0.6810 - acc: 0.5785 - val_loss: 0.6824 - val_acc: 0.5733
+    47/47 [==============================] - 13s 286ms/step - loss: 0.6810 - acc: 0.5785 - val_loss: 0.6826 - val_acc: 0.5733
     Epoch 6/6
-    47/47 [==============================] - 15s 324ms/step - loss: 0.6809 - acc: 0.5785 - val_loss: 0.6824 - val_acc: 0.5733
+    47/47 [==============================] - 17s 361ms/step - loss: 0.6810 - acc: 0.5785 - val_loss: 0.6830 - val_acc: 0.5733
     Epoch 1/6
-    47/47 [==============================] - 18s 383ms/step - loss: 0.6118 - acc: 0.6138 - val_loss: 0.6254 - val_acc: 0.6300
+    47/47 [==============================] - 16s 342ms/step - loss: 0.6017 - acc: 0.6093 - val_loss: 0.5681 - val_acc: 0.6793
     Epoch 2/6
-    47/47 [==============================] - 20s 416ms/step - loss: 0.5294 - acc: 0.7033 - val_loss: 0.5669 - val_acc: 0.7067
+    47/47 [==============================] - 15s 317ms/step - loss: 0.5231 - acc: 0.7127 - val_loss: 0.5382 - val_acc: 0.6933
     Epoch 3/6
-    47/47 [==============================] - 17s 356ms/step - loss: 0.4990 - acc: 0.7272 - val_loss: 0.5280 - val_acc: 0.7307
+    47/47 [==============================] - 15s 330ms/step - loss: 0.5086 - acc: 0.7233 - val_loss: 0.5408 - val_acc: 0.7300
     Epoch 4/6
-    47/47 [==============================] - 15s 325ms/step - loss: 0.4474 - acc: 0.7847 - val_loss: 0.5485 - val_acc: 0.7273
+    47/47 [==============================] - 14s 298ms/step - loss: 0.4671 - acc: 0.7657 - val_loss: 0.5378 - val_acc: 0.7207
     Epoch 5/6
-    47/47 [==============================] - 15s 315ms/step - loss: 0.4178 - acc: 0.7930 - val_loss: 0.5270 - val_acc: 0.7493
+    47/47 [==============================] - 14s 298ms/step - loss: 0.4488 - acc: 0.7783 - val_loss: 0.5466 - val_acc: 0.7373
     Epoch 6/6
-    47/47 [==============================] - 14s 307ms/step - loss: 0.4099 - acc: 0.7970 - val_loss: 0.5444 - val_acc: 0.7300
+    47/47 [==============================] - 14s 288ms/step - loss: 0.4270 - acc: 0.7937 - val_loss: 0.5295 - val_acc: 0.7380
 
 
 
@@ -1642,15 +1410,15 @@ for i in range(3):
     print('\ndataset {}: loss - {}, acc - {}'.format(i+1, loss[i], acc[i]))
 ```
 
-    235/235 [==============================] - 13s 57ms/step - loss: 0.3307 - acc: 0.8625
-    235/235 [==============================] - 13s 57ms/step - loss: 0.5471 - acc: 0.7281
-    235/235 [==============================] - 13s 54ms/step - loss: 0.4100 - acc: 0.8011
+    235/235 [==============================] - 9s 40ms/step - loss: 0.3470 - acc: 0.8504
+    235/235 [==============================] - 8s 34ms/step - loss: 0.5689 - acc: 0.7211
+    235/235 [==============================] - 8s 35ms/step - loss: 0.4250 - acc: 0.7913
     
-    dataset 1: loss - 0.3307272493839264, acc - 0.8625333309173584
+    dataset 1: loss - 0.3470296859741211, acc - 0.8503999710083008
     
-    dataset 2: loss - 0.5471307039260864, acc - 0.7281333208084106
+    dataset 2: loss - 0.568907618522644, acc - 0.7210666537284851
     
-    dataset 3: loss - 0.4100341200828552, acc - 0.8010666370391846
+    dataset 3: loss - 0.42503830790519714, acc - 0.7913333177566528
 
 
 
@@ -1668,15 +1436,15 @@ for i in range(3):
     print('\ndataset {}: loss - {}, acc - {}'.format(i+1, loss[i], acc[i]))
 ```
 
-    79/79 [==============================] - 3s 36ms/step - loss: 0.4677 - acc: 0.8016
-    79/79 [==============================] - 3s 32ms/step - loss: 0.5715 - acc: 0.7112
-    79/79 [==============================] - 3s 34ms/step - loss: 0.5289 - acc: 0.7384
+    79/79 [==============================] - 3s 35ms/step - loss: 0.4740 - acc: 0.7912
+    79/79 [==============================] - 3s 35ms/step - loss: 0.5991 - acc: 0.7052
+    79/79 [==============================] - 3s 32ms/step - loss: 0.5362 - acc: 0.7384
     
-    dataset 1: loss - 0.46765264868736267, acc - 0.8015999794006348
+    dataset 1: loss - 0.4740312397480011, acc - 0.7911999821662903
     
-    dataset 2: loss - 0.5714684128761292, acc - 0.7111999988555908
+    dataset 2: loss - 0.5990695357322693, acc - 0.7052000164985657
     
-    dataset 3: loss - 0.5288749933242798, acc - 0.7383999824523926
+    dataset 3: loss - 0.5361627340316772, acc - 0.7383999824523926
 
 
 
@@ -1697,19 +1465,19 @@ plt.show()
 
 
     
-![png](output/output_96_0.png)
+![png](output/output_87_0.png)
     
 
 
 
     
-![png](output/output_96_1.png)
+![png](output/output_87_1.png)
     
 
 
 
     
-![png](output/output_96_2.png)
+![png](output/output_87_2.png)
     
 
 
@@ -1731,20 +1499,70 @@ plt.show()
 
 
     
-![png](output/output_97_0.png)
+![png](output/output_88_0.png)
     
 
 
 
     
-![png](output/output_97_1.png)
+![png](output/output_88_1.png)
     
 
 
 
     
-![png](output/output_97_2.png)
+![png](output/output_88_2.png)
     
+
+
+
+```python
+model = Sequential()
+
+embed_layer = Embedding(
+    vocab_size, 100,
+    weights = [embed_matrix],
+    input_length = maxlen,
+    trainable = False
+)
+model.add(embed_layer)
+
+model.add(
+    Conv1D(128, 5,
+        activation = 'relu'
+    )
+)
+model.add(GlobalMaxPooling1D())
+model.add(
+    Dense(1,
+          activation = 'sigmoid'
+    )
+)
+
+model.compile(
+    optimizer = 'adam',
+    loss = 'binary_crossentropy',
+    metrics = ['accuracy']
+)
+model.summary()
+```
+
+    Model: "sequential_5"
+    _________________________________________________________________
+    Layer (type)                 Output Shape              Param #   
+    =================================================================
+    embedding_5 (Embedding)      (None, 100, 100)          5796100   
+    _________________________________________________________________
+    conv1d_2 (Conv1D)            (None, 96, 128)           64128     
+    _________________________________________________________________
+    global_max_pooling1d_1 (Glob (None, 128)               0         
+    _________________________________________________________________
+    dense_7 (Dense)              (None, 1)                 129       
+    =================================================================
+    Total params: 5,860,357
+    Trainable params: 64,257
+    Non-trainable params: 5,796,100
+    _________________________________________________________________
 
 
 
@@ -1752,11 +1570,249 @@ plt.show()
 model.save('model.m5')
 ```
 
-    WARNING:tensorflow:From /home/shiningflash/.local/lib/python3.6/site-packages/tensorflow/python/training/tracking/tracking.py:111: Model.state_updates (from tensorflow.python.keras.engine.training) is deprecated and will be removed in a future version.
-    Instructions for updating:
-    This property should not be used in TensorFlow 2.0, as updates are applied automatically.
-    WARNING:tensorflow:From /home/shiningflash/.local/lib/python3.6/site-packages/tensorflow/python/training/tracking/tracking.py:111: Layer.updates (from tensorflow.python.keras.engine.base_layer) is deprecated and will be removed in a future version.
-    Instructions for updating:
-    This property should not be used in TensorFlow 2.0, as updates are applied automatically.
     INFO:tensorflow:Assets written to: model.m5/assets
+
+
+
+```python
+hist = [[]] * 3
+
+for i in range(3):
+    hist[i] = model.fit(
+        X_train[i], y_train[i],
+        batch_size = 128,
+        epochs = 6,
+        verbose = 1,
+        validation_split = 0.2
+    )
+```
+
+    Epoch 1/6
+    47/47 [==============================] - 2s 42ms/step - loss: 0.6406 - accuracy: 0.6342 - val_loss: 0.5582 - val_accuracy: 0.7380
+    Epoch 2/6
+    47/47 [==============================] - 2s 51ms/step - loss: 0.4887 - accuracy: 0.8023 - val_loss: 0.4852 - val_accuracy: 0.7887
+    Epoch 3/6
+    47/47 [==============================] - 2s 45ms/step - loss: 0.4036 - accuracy: 0.8470 - val_loss: 0.4428 - val_accuracy: 0.8060
+    Epoch 4/6
+    47/47 [==============================] - 3s 58ms/step - loss: 0.3424 - accuracy: 0.8762 - val_loss: 0.4221 - val_accuracy: 0.8100
+    Epoch 5/6
+    47/47 [==============================] - 2s 41ms/step - loss: 0.2989 - accuracy: 0.8987 - val_loss: 0.4308 - val_accuracy: 0.7967
+    Epoch 6/6
+    47/47 [==============================] - 2s 42ms/step - loss: 0.2590 - accuracy: 0.9182 - val_loss: 0.4047 - val_accuracy: 0.8127
+    Epoch 1/6
+    47/47 [==============================] - 2s 40ms/step - loss: 0.6254 - accuracy: 0.6783 - val_loss: 0.5808 - val_accuracy: 0.6993
+    Epoch 2/6
+    47/47 [==============================] - 2s 41ms/step - loss: 0.4917 - accuracy: 0.7607 - val_loss: 0.5591 - val_accuracy: 0.7207
+    Epoch 3/6
+    47/47 [==============================] - 2s 41ms/step - loss: 0.4284 - accuracy: 0.8158 - val_loss: 0.5432 - val_accuracy: 0.7333
+    Epoch 4/6
+    47/47 [==============================] - 2s 43ms/step - loss: 0.3864 - accuracy: 0.8418 - val_loss: 0.5464 - val_accuracy: 0.7233
+    Epoch 5/6
+    47/47 [==============================] - 2s 41ms/step - loss: 0.3474 - accuracy: 0.8740 - val_loss: 0.5368 - val_accuracy: 0.7387
+    Epoch 6/6
+    47/47 [==============================] - 2s 42ms/step - loss: 0.3107 - accuracy: 0.9000 - val_loss: 0.5370 - val_accuracy: 0.7400
+    Epoch 1/6
+    47/47 [==============================] - 3s 56ms/step - loss: 0.3114 - accuracy: 0.8842 - val_loss: 0.5453 - val_accuracy: 0.7360
+    Epoch 2/6
+    47/47 [==============================] - 3s 72ms/step - loss: 0.2428 - accuracy: 0.9387 - val_loss: 0.5140 - val_accuracy: 0.7600
+    Epoch 3/6
+    47/47 [==============================] - 2s 53ms/step - loss: 0.1991 - accuracy: 0.9658 - val_loss: 0.5223 - val_accuracy: 0.7553
+    Epoch 4/6
+    47/47 [==============================] - 3s 68ms/step - loss: 0.1708 - accuracy: 0.9778 - val_loss: 0.5204 - val_accuracy: 0.7587
+    Epoch 5/6
+    47/47 [==============================] - 3s 60ms/step - loss: 0.1489 - accuracy: 0.9850 - val_loss: 0.5417 - val_accuracy: 0.7493
+    Epoch 6/6
+    47/47 [==============================] - 3s 72ms/step - loss: 0.1289 - accuracy: 0.9905 - val_loss: 0.5339 - val_accuracy: 0.7553
+
+
+
+```python
+loss = [[]] * 3
+acc = [[]] * 3
+
+for i in range(3):
+    loss[i], acc[i] = model.evaluate(
+        X_train[i], y_train[i],
+        verbose = 1
+    )
+
+for i in range(3):
+    print('\ndataset {}: loss - {}, acc - {}'.format(i+1, loss[i], acc[i]))
+```
+
+    235/235 [==============================] - 1s 6ms/step - loss: 0.2309 - accuracy: 0.9159
+    235/235 [==============================] - 1s 5ms/step - loss: 0.3048 - accuracy: 0.8873
+    235/235 [==============================] - 1s 5ms/step - loss: 0.1942 - accuracy: 0.9465
+    
+    dataset 1: loss - 0.23094239830970764, acc - 0.9158666729927063
+    
+    dataset 2: loss - 0.3047662675380707, acc - 0.887333333492279
+    
+    dataset 3: loss - 0.19415146112442017, acc - 0.9465333223342896
+
+
+
+```python
+loss = [[]] * 3
+acc = [[]] * 3
+
+for i in range(3):
+    loss[i], acc[i] = model.evaluate(
+        X_test[i], y_test[i],
+        verbose = 1
+    )
+    
+for i in range(3):
+    print('\ndataset {}: loss - {}, acc - {}'.format(i+1, loss[i], acc[i]))
+```
+
+    79/79 [==============================] - 0s 5ms/step - loss: 0.4385 - accuracy: 0.7980
+    79/79 [==============================] - 0s 6ms/step - loss: 0.5981 - accuracy: 0.7292
+    79/79 [==============================] - 0s 5ms/step - loss: 0.5148 - accuracy: 0.7660
+    
+    dataset 1: loss - 0.43845272064208984, acc - 0.7979999780654907
+    
+    dataset 2: loss - 0.5981062054634094, acc - 0.729200005531311
+    
+    dataset 3: loss - 0.514782726764679, acc - 0.765999972820282
+
+
+
+```python
+for i in range(3):
+    plt.figure(figsize=(12, 8))
+    plt.subplot(3, 3, i+1)
+    plt.title('model accuracy')
+    plt.xlabel('epoch')
+    plt.ylabel('accuracy')
+    plt.legend(['train', 'test'], loc = 'upper left')
+    plt.plot(hist[i].history['accuracy'])
+    plt.plot(hist[i].history['val_accuracy'])
+    plt.tight_layout(pad=1.0)
+
+plt.show()
+```
+
+
+    
+![png](output/output_94_0.png)
+    
+
+
+
+    
+![png](output/output_94_1.png)
+    
+
+
+
+    
+![png](output/output_94_2.png)
+    
+
+
+
+```python
+for i in range(3):
+    plt.figure(figsize=(12, 8))
+    plt.subplot(3, 3, i+1)
+    plt.title('model loss')
+    plt.xlabel('epoch')
+    plt.ylabel('loss')
+    plt.legend(['train', 'test'], loc = 'upper right')
+    plt.plot(hist[i].history['loss'])
+    plt.plot(hist[i].history['val_loss'])
+    plt.tight_layout(pad=1.0)
+
+plt.show()
+```
+
+
+    
+![png](output/output_95_0.png)
+    
+
+
+
+    
+![png](output/output_95_1.png)
+    
+
+
+
+    
+![png](output/output_95_2.png)
+    
+
+
+
+```python
+def predictions(text):
+  text1 = tokenizer.texts_to_sequences(text)
+  text2 = pad_sequences(
+        text1,
+        padding = 'post',
+        maxlen = maxlen
+    )
+  pred = model.predict(text2)
+  return 'positive' if pred[0] >= 0.5 else 'negative'
+```
+
+
+```python
+predictions(["Wade.Grad.Hot.Bald. Your not gonna shave your head! Uh. Yeah.I hot.get babes Hahahaha man love Wade!"])
+```
+
+
+
+
+    'positive'
+
+
+
+
+```python
+predictions(["waaaaahhh. ohyeah i had something to do eeee. haha"])
+```
+
+
+
+
+    'negative'
+
+
+
+
+```python
+predictions(["This is very bad. You should not do this."])
+```
+
+
+
+
+    'negative'
+
+
+
+
+```python
+predictions(["I am very happy to hear that."])
+```
+
+
+
+
+    'positive'
+
+
+
+
+```python
+predictions(["Wow! You look so beautiful."])
+```
+
+
+
+
+    'positive'
 
